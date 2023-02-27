@@ -8,6 +8,9 @@
         width: 80vw;
         height: 330px;
     }
+    .campo > input{
+        transform: translateX(42px) translateY(-40px) ;
+    }
     #imagem{
         float: left;
         width: 30%;
@@ -33,6 +36,11 @@
         width: 950px;
         height: 350px;
     }
+}
+    .campo > input{
+        transform: translateX(42px) translateY(-40px) ;
+    }
+    
     #imagem{
         float: right;
         width: 50%;
