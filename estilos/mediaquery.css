@@ -6,7 +6,6 @@
     }
     #login{
         width: 80vw;
-        height: 330px;
     }
     .campo > input{
         transform: translateX(42px) translateY(-40px) ;
@@ -22,8 +21,7 @@
         width: 70%;           
     }
     #formulario > p{
-        font-size: 1em;
-        margin-bottom: 10px;
+        font-size: 1.2em;
     }
 }
 
@@ -34,7 +32,6 @@
 
     #login{
         width: 950px;
-        height: 350px;
     }
 }
     .campo > input{
@@ -54,8 +51,7 @@
         font-size: 2em;
     }
     #formulario > p{
-        font-size: 1em;
-        margin-bottom: 10px;
+        font-size: 1.2em;
     }
 
     
