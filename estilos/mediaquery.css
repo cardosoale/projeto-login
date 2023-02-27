@@ -15,9 +15,10 @@
     }
     #formulario{
         float: right;
-        width: 70%;
-        
-
+        width: 70%;           
+    }
+    #formulario > p{
+        font-size: 1.2em;
     }
 }
 
@@ -30,13 +31,19 @@
         width: 950px;
     }
     #imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     #formulario{
-        float: right;
+        float: left;
         width: 50%;
+    }
+    #formulario > h1{
+        font-size: 2em;
+    }
+    #formulario > p{
+        font-size: 1.2em;
     }
 
     
