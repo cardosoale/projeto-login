@@ -38,9 +38,9 @@
     }
 }
     .campo > input{
-        transform: translateX(42px) translateY(-40px) ;
+        transform: translateX(42px) translateY(-40px);
     }
-    
+
     #imagem{
         float: right;
         width: 50%;
@@ -59,4 +59,3 @@
     }
 
     
-}
